@@ -95,7 +95,7 @@ button:focus {
     padding: 0 30px 30px;
     color: #333;
     visibility: hidden;
-    transition: transform 0s, top 0s;
+    transition: transform 0s, ease-in-out;
 }
 .open-popup{
     visibility: visible;
